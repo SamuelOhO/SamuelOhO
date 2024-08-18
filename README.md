@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SamuelOhO
-- 👀 I’m interested in Code
-- 🌱 I’m currently learning nothing..
-- 💞️ I’m looking to collaborate on everything with you
-- 📫 How to reach me ...is secret
+- 👋 Hi, I’m yongseok_oh / samuel
+- 👀 I’m interested in AI, LLM, Data
+- 🌱 I majored in mathematics
+
 
 <!---
 SamuelOhO/SamuelOhO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
