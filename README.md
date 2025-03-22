@@ -1,10 +1,12 @@
-- 👋 Hi, I’m yongseok_oh / samuel
-- 👀 I’m interested in AI, LLM, Data
-- 🌱 I majored in mathematics
+## About Me
+- Hi, I’m Yongseok Oh (a.k.a. Samuel)
+- Majored in Mathematics at Konkuk University
+- Interested in LLMs, data-driven systems, and service development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOhO)](https://github.com/anuraghazra/github-readme-stats)
+## Work Experience
 
-<!---
-SamuelOhO/SamuelOhO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Samsung Fire & Marine Insurance (2021.07 ~ 2024.02)**  
+Handled insurance claim assessments and settlement negotiations in the auto insurance division, engaging with over 50 clients daily to resolve complex issues and reach agreements through effective communication and problem-solving.
+
+**Kidok News (2024.11 ~ 2025.02)**  
+Worked as an LLM and QA engine developer, building intelligent systems powered by large language models.
